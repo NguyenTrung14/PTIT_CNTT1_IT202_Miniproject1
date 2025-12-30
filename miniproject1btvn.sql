@@ -1,8 +1,5 @@
 DROP DATABASE IF EXISTS elearning_db;
-CREATE DATABASE elearning_db
-  CHARACTER SET utf8mb4
-  COLLATE utf8mb4_unicode_ci;
-
+CREATE DATABASE elearning_db;
 USE elearning_db;
 
 CREATE TABLE student (
